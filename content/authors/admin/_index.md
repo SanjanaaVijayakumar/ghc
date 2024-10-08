@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Sanjanaa
+title: Sanjanaa Vijayakumar
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Sanjanaa
-last_name: Chien
+last_name: Vijayakumar
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,30 +20,30 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Analyst
+role: Data Analyst Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Arizona State University
+   # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
+#  - icon: at-symbol
+    #url: 'mailto:your-email@example.com'
+   # label: E-mail Me
+ # - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+ # - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
+#  - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+    url: https://www.linkedin.com/in/sanjanaavijayakumar/
+ # - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+ # - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
