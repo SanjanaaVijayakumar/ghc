@@ -1,6 +1,6 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: 'Data Analyst Intern, Arizona State University'
+date: Jul 2024 - Present
 type: landing
 
 design:
